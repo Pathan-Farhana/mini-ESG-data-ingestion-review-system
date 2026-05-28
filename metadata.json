@@ -1,0 +1,6 @@
+{
+  "name": "Breathe ESG",
+  "description": "ESG Activity & Emissions Ingestion, Normalization, and Audit Review Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
